@@ -54,7 +54,7 @@ const News = () => {
 
             try{
 
-                const API_KEY = 'e077bf2c9cf84e47903a645ec40d8ccf'
+                const API_KEY = "309fd9c3c81f4dbd98d0f416a74d883e"
                 let url = `https://newsapi.org/v2/top-headlines?country=in`
     
                 if(category){

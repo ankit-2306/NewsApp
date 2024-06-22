@@ -25,7 +25,7 @@ function App() {
     <div>
 
       <Nav />
-      <News className="bg-green-200"/>
+      <News/>
 
 
     </div>
